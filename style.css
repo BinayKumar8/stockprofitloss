@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+.main {
+    text-align: center;
+}
+#initial-price {
+    padding: 10px;
+    width: 25%;
+}
+#stock-quantity {
+    padding: 10px;
+    width: 25%;
+}
+#current-price {
+    padding: 10px;
+    width: 25%;
+}
+.input1 {
+    margin: 20px;
+}
+.input2 {
+    margin: 20px;
+}
+.input3 {
+    margin: 20px;
+}
+.btn {
+    padding: 8px 12px;
+}
